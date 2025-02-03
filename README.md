@@ -13,4 +13,5 @@ Retrieve and display information about the device you are using.
 - Supports Android devices.
 
 
-![Screen](https://github.com/user-attachments/assets/56666300-2093-43c7-b964-f1830316f28d)
+## **Screen**
+<img src="https://github.com/user-attachments/assets/5588b38b-aa45-4195-88e2-e45cb7ed1ca2" width="300">
